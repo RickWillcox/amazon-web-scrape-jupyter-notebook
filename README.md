@@ -13,4 +13,4 @@ It then saves your results to a csv file - example below
 There is probably a few bugs so test and adjust.
 
 You will need to point this line `ser = Service("C:\\Program Files\\geckodriver.exe")` to the location your geckodriver.exe is
-Code is made for firefox, you need to use different driver code for other browsers (although it is very similar). Just google selenium + webdriver + your browser for info.
+Code is made for firefox, also different driver code for other browsers (although it is very similar). Just google selenium + webdriver + your browser for info.
